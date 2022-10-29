@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapBox</string>
+    <string name="API_KEY" translatable="false">AIzaSyBA_6RpRUtddBomeNbEjeVg7CNu5qnf618</string>
+</resources>
